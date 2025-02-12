@@ -1,5 +1,5 @@
 ## Hi there 👋
-mailto:eddysanchez22@gmail.com?subject=Hello&body=I%20would%20like%20to%20connect.
+mailto:eddysanchez22@gmail.com?subject=Hello&body=I%20would%20like%20to%20connect
 
 Hi I'm Eduardo but I like to go by Eddy. I am an aspiring Business Intelligence (BI) Analyst, passionate about transforming data into actionable insights, eager to break into the data field. With a strong foundation in data analysis, SQL, and visualization tools like Power BI and Tableau, actively honing my skills through hands-on projects and continuous learning. Excited to apply analytical thinking and problem-solving abilities to real-world business challenges, I am seeking opportunities to gain industry experience, collaborate with data-driven teams, and make a meaningful impact. 
 <!--
